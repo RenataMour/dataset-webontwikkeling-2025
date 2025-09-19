@@ -1,0 +1,97 @@
+[
+  {
+    "id": "CAT-101",
+    "name": "Moisturizers",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-101.png",
+    "createdYear": 2010,
+    "creator": "Glow Labs",
+    "location": "Paris, France"
+  },
+  {
+    "id": "CAT-102",
+    "name": "Cleansers",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-102.webp",
+    "createdYear": 2015,
+    "creator": "PureSkin",
+    "location": "London, UK"
+  },
+  {
+    "id": "CAT-103",
+    "name": "Serums",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-103.webp",
+    "createdYear": 2018,
+    "creator": "SkinBright",
+    "location": "Berlin, Germany"
+  },
+  {
+    "id": "CAT-104",
+    "name": "Masks",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-104.webp",
+    "createdYear": 2016,
+    "creator": "GreenEarth",
+    "location": "Seoul, South Korea"
+  },
+  {
+    "id": "CAT-105",
+    "name": "Eye Care",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-105.jpg",
+    "createdYear": 2014,
+    "creator": "FreshEyes",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "id": "CAT-106",
+    "name": "Night Care",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-106.webp",
+    "createdYear": 2011,
+    "creator": "DermaCare",
+    "location": "New York, USA"
+  },
+  {
+    "id": "CAT-107",
+    "name": "Sun Protection",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-107.jpg",
+    "createdYear": 2013,
+    "creator": "SunSafe",
+    "location": "Sydney, Australia"
+  },
+  {
+    "id": "CAT-108",
+    "name": "Exfoliators",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-108.jfif",
+    "createdYear": 2017,
+    "creator": "RenewSkin",
+    "location": "Copenhagen, Denmark"
+  },
+  {
+    "id": "CAT-109",
+    "name": "Toners",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-109.jpg",
+    "createdYear": 2012,
+    "creator": "BalanceCo",
+    "location": "Toronto, Canada"
+  },
+  {
+    "id": "CAT-110",
+    "name": "Oils",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-110.webp",
+    "createdYear": 2019,
+    "creator": "NatureGlow",
+    "location": "Lisbon, Portugal"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
