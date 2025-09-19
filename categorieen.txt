@@ -66,7 +66,7 @@
   {
     "id": "CAT-109",
     "name": "Toners",
-    "iconUrl": "https://example.com/images/categories/toners.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-109.jpg",
     "createdYear": 2012,
     "creator": "BalanceCo",
     "location": "Toronto, Canada"
@@ -80,6 +80,7 @@
     "location": "Lisbon, Portugal"
   }
 ]
+
 
 
 
