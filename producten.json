@@ -18,7 +18,7 @@
     "price": 14.50,
     "isActive": true,
     "releaseDate": "2020-05-12",
-    "imageUrl": "https://example.com/images/products/foaming-cleanser.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-002.webp",
     "skinType": "All",
     "ingredients": ["Aloe Vera", "Chamomile", "Glycerin"],
     "category-id": "CAT-102",
@@ -121,3 +121,4 @@
     "category-id": "CAT-110",
   }
 ]
+
