@@ -79,7 +79,7 @@
     "price": 21.90,
     "isActive": true,
     "releaseDate": "2023-03-01",
-    "imageUrl": "https://example.com/images/products/sunscreen-spf50.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-007.webp",
     "skinType": "All",
     "ingredients": ["Zinc Oxide", "Vitamin E", "Green Tea"],
     "category-id": "CAT-107",
@@ -121,6 +121,7 @@
     "category-id": "CAT-110",
   }
 ]
+
 
 
 
