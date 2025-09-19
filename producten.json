@@ -103,7 +103,7 @@
     "price": 18.20,
     "isActive": true,
     "releaseDate": "2020-10-05",
-    "imageUrl": "https://example.com/images/products/balancing-toner.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-009.jpg",
     "skinType": "Oily",
     "ingredients": ["Witch Hazel", "Niacinamide", "Aloe Vera"],
     "category-id": "CAT-109",
@@ -121,6 +121,7 @@
     "category-id": "CAT-110",
   }
 ]
+
 
 
 
