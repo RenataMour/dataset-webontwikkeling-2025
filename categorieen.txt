@@ -50,7 +50,7 @@
   {
     "id": "CAT-107",
     "name": "Sun Protection",
-    "iconUrl": "https://example.com/images/categories/sun-protection.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-107.jpg",
     "createdYear": 2013,
     "creator": "SunSafe",
     "location": "Sydney, Australia"
@@ -80,6 +80,7 @@
     "location": "Lisbon, Portugal"
   }
 ]
+
 
 
 
