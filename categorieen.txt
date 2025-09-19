@@ -18,7 +18,7 @@
   {
     "id": "CAT-103",
     "name": "Serums",
-    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-103.webp",
     "createdYear": 2018,
     "creator": "SkinBright",
     "location": "Berlin, Germany"
@@ -80,6 +80,7 @@
     "location": "Lisbon, Portugal"
   }
 ]
+
 
 
 
