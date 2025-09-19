@@ -74,12 +74,13 @@
   {
     "id": "CAT-110",
     "name": "Oils",
-    "iconUrl": "https://example.com/images/categories/oils.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-110.webp",
     "createdYear": 2019,
     "creator": "NatureGlow",
     "location": "Lisbon, Portugal"
   }
 ]
+
 
 
 
