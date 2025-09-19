@@ -66,7 +66,7 @@
     "price": 34.99,
     "isActive": true,
     "releaseDate": "2022-01-19",
-    "imageUrl": "https://example.com/images/products/night-cream.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-006.webp",
     "skinType": "Mature",
     "ingredients": ["Retinol", "Shea Butter", "Peptides"],
     "category-id": "CAT-106",
@@ -121,6 +121,7 @@
     "category-id": "CAT-110",
   }
 ]
+
 
 
 
