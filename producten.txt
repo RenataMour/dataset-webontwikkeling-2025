@@ -6,7 +6,7 @@
     "price": 24.99,
     "isActive": true,
     "releaseDate": "2021-02-15",
-    "imageUrl": "https://example.com/images/products/hydrating-face-cream.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-001.webp",
     "skinType": "Dry",
     "ingredients": ["Hyaluronic Acid", "Shea Butter", "Vitamin E"],
     "category-id": "CAT-101",
@@ -121,3 +121,4 @@
     "category-id": "CAT-110",
   }
 ]
+
