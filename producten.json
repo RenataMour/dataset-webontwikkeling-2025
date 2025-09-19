@@ -91,7 +91,7 @@
     "price": 16.75,
     "isActive": false,
     "releaseDate": "2018-06-10",
-    "imageUrl": "https://example.com/images/products/exfoliating-scrub.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-008.webp",
     "skinType": "Combination",
     "ingredients": ["Walnut Powder", "Glycolic Acid", "Vitamin B5"],
     "category-id": "CAT-108",
@@ -121,6 +121,7 @@
     "category-id": "CAT-110",
   }
 ]
+
 
 
 
