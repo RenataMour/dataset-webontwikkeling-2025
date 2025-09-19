@@ -42,7 +42,7 @@
     "price": 19.99,
     "isActive": false,
     "releaseDate": "2019-08-22",
-    "imageUrl": "https://example.com/images/products/clay-mask.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-004.jpg",
     "skinType": "Oily",
     "ingredients": ["Kaolin Clay", "Green Tea", "Aloe Vera"],
     "category-id": "CAT-104"
@@ -121,5 +121,6 @@
     "category-id": "CAT-110",
   }
 ]
+
 
 
