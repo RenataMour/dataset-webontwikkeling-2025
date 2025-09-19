@@ -10,7 +10,7 @@
   {
     "id": "CAT-102",
     "name": "Cleansers",
-    "iconUrl": "https://example.com/images/categories/cleansers.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main",
     "createdYear": 2015,
     "creator": "PureSkin",
     "location": "London, UK"
@@ -80,4 +80,5 @@
     "location": "Lisbon, Portugal"
   }
 ]
+
 
