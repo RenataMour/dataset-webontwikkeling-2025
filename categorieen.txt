@@ -34,7 +34,7 @@
   {
     "id": "CAT-105",
     "name": "Eye Care",
-    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/CAT-105.jpg",
     "createdYear": 2014,
     "creator": "FreshEyes",
     "location": "Tokyo, Japan"
@@ -80,6 +80,7 @@
     "location": "Lisbon, Portugal"
   }
 ]
+
 
 
 
