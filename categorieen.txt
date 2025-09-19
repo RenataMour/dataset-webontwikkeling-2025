@@ -2,7 +2,7 @@
   {
     "id": "CAT-101",
     "name": "Moisturizers",
-    "iconUrl": "https://example.com/images/categories/moisturizers.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main",
     "createdYear": 2010,
     "creator": "Glow Labs",
     "location": "Paris, France"
@@ -80,3 +80,4 @@
     "location": "Lisbon, Portugal"
   }
 ]
+
