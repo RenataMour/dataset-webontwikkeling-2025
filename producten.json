@@ -30,7 +30,7 @@
     "price": 32.00,
     "isActive": true,
     "releaseDate": "2022-09-05",
-    "imageUrl": "https://example.com/images/products/vitamin-c-serum.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main/images/PROD-003.jpg",
     "skinType": "Normal",
     "ingredients": ["Vitamin C", "Hyaluronic Acid", "Niacinamide"],
     "category-id": "CAT-103",
@@ -121,4 +121,5 @@
     "category-id": "CAT-110",
   }
 ]
+
 
