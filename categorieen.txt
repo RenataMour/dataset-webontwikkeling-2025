@@ -1,0 +1,82 @@
+[
+  {
+    "id": "CAT-101",
+    "name": "Moisturizers",
+    "iconUrl": "https://example.com/images/categories/moisturizers.jpg",
+    "createdYear": 2010,
+    "creator": "Glow Labs",
+    "location": "Paris, France"
+  },
+  {
+    "id": "CAT-102",
+    "name": "Cleansers",
+    "iconUrl": "https://example.com/images/categories/cleansers.jpg",
+    "createdYear": 2015,
+    "creator": "PureSkin",
+    "location": "London, UK"
+  },
+  {
+    "id": "CAT-103",
+    "name": "Serums",
+    "iconUrl": "https://example.com/images/categories/serums.jpg",
+    "createdYear": 2018,
+    "creator": "SkinBright",
+    "location": "Berlin, Germany"
+  },
+  {
+    "id": "CAT-104",
+    "name": "Masks",
+    "iconUrl": "https://example.com/images/categories/masks.jpg",
+    "createdYear": 2016,
+    "creator": "GreenEarth",
+    "location": "Seoul, South Korea"
+  },
+  {
+    "id": "CAT-105",
+    "name": "Eye Care",
+    "iconUrl": "https://example.com/images/categories/eye-care.jpg",
+    "createdYear": 2014,
+    "creator": "FreshEyes",
+    "location": "Tokyo, Japan"
+  },
+  {
+    "id": "CAT-106",
+    "name": "Night Care",
+    "iconUrl": "https://example.com/images/categories/night-care.jpg",
+    "createdYear": 2011,
+    "creator": "DermaCare",
+    "location": "New York, USA"
+  },
+  {
+    "id": "CAT-107",
+    "name": "Sun Protection",
+    "iconUrl": "https://example.com/images/categories/sun-protection.jpg",
+    "createdYear": 2013,
+    "creator": "SunSafe",
+    "location": "Sydney, Australia"
+  },
+  {
+    "id": "CAT-108",
+    "name": "Exfoliators",
+    "iconUrl": "https://example.com/images/categories/exfoliators.jpg",
+    "createdYear": 2017,
+    "creator": "RenewSkin",
+    "location": "Copenhagen, Denmark"
+  },
+  {
+    "id": "CAT-109",
+    "name": "Toners",
+    "iconUrl": "https://example.com/images/categories/toners.jpg",
+    "createdYear": 2012,
+    "creator": "BalanceCo",
+    "location": "Toronto, Canada"
+  },
+  {
+    "id": "CAT-110",
+    "name": "Oils",
+    "iconUrl": "https://example.com/images/categories/oils.jpg",
+    "createdYear": 2019,
+    "creator": "NatureGlow",
+    "location": "Lisbon, Portugal"
+  }
+]
