@@ -26,7 +26,7 @@
   {
     "id": "CAT-104",
     "name": "Masks",
-    "iconUrl": "https://example.com/images/categories/masks.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/RenataMour/dataset-webontwikkeling-2025/refs/heads/main",
     "createdYear": 2016,
     "creator": "GreenEarth",
     "location": "Seoul, South Korea"
@@ -80,6 +80,7 @@
     "location": "Lisbon, Portugal"
   }
 ]
+
 
 
 
